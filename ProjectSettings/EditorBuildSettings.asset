@@ -6,9 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/VFXDrawWithMouse.unity
+    path: Assets/VFXTestbed/Scenes/VFXDrawWithMouse.unity
     guid: 5d03806c6954946e2bc6e9471b504635
   - enabled: 1
-    path: Assets/Scenes/VFXMeshGenerate.unity
+    path: Assets/VFXTestbed/Scenes/VFXMeshGenerate.unity
     guid: ecc61c0e75ee048a5851ce1deaeb55b4
   m_configObjects: {}
